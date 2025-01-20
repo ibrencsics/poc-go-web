@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ibrencsics/poc-go-web/pkg/config"
-	"github.com/ibrencsics/poc-go-web/pkg/models"
-	"github.com/ibrencsics/poc-go-web/pkg/render"
+	"github.com/ibrencsics/poc-go-web/internal/config"
+	"github.com/ibrencsics/poc-go-web/internal/models"
+	"github.com/ibrencsics/poc-go-web/internal/render"
 )
 
 // Repo the repository used by the handlers

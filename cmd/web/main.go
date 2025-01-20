@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/ibrencsics/poc-go-web/pkg/config"
-	"github.com/ibrencsics/poc-go-web/pkg/handlers"
-	"github.com/ibrencsics/poc-go-web/pkg/render"
+	"github.com/ibrencsics/poc-go-web/internal/config"
+	"github.com/ibrencsics/poc-go-web/internal/handlers"
+	"github.com/ibrencsics/poc-go-web/internal/render"
 )
 
 const portNumber = ":3000"
