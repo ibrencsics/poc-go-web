@@ -5,8 +5,8 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/ibrencsics/poc-web/pkg/config"
-	"github.com/ibrencsics/poc-web/pkg/handlers"
+	"github.com/ibrencsics/poc-go-web/pkg/config"
+	"github.com/ibrencsics/poc-go-web/pkg/handlers"
 )
 
 func routes(app *config.AppConfig) http.Handler {

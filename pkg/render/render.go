@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/ibrencsics/poc-web/pkg/config"
-	"github.com/ibrencsics/poc-web/pkg/models"
+	"github.com/ibrencsics/poc-go-web/pkg/config"
+	"github.com/ibrencsics/poc-go-web/pkg/models"
 	"github.com/justinas/nosurf"
 )
 

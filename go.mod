@@ -1,4 +1,4 @@
-module github.com/ibrencsics/poc-web
+module github.com/ibrencsics/poc-go-web
 
 go 1.23.4
 
